@@ -1,1 +1,0 @@
-insert into test_user (username, first_name, last_name) values('olgaspresova', 'Olga', 'Spresova');
